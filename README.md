@@ -1,2 +1,2 @@
 # d73-labo
-A repository to learn Git
+A repository to learn Git!
