@@ -1,3 +1,0 @@
-bin
-
-mon choix: 2046 05 05
